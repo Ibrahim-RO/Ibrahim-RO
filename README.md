@@ -42,8 +42,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-[![](https://github-readme-stats.vercel.app/api?username=ibrahimrodriguezo&show_icons=true&theme=algolia&hide_border=true&locale=en)](https://github.com/ibrahimrodriguezo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimrodriguezo&theme=algolia&hide_border=true)](https://github.com/ibrahimrodriguezo)
+[![](https://github-readme-stats.vercel.app/api?username=ibrahim-ro&show_icons=true&theme=algolia&hide_border=true&locale=en)](https://github.com/ibrahim-ro)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-ro&theme=algolia&hide_border=true)](https://github.com/ibrahim-ro)
 
 ### 🔗 &nbsp;Contacto
 
